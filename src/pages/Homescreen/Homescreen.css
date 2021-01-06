@@ -1,0 +1,32 @@
+body{
+  background-color: #212529;
+}
+
+.Title {
+  margin: auto;
+  text-align: center;
+  color: #e5e5e5;
+  display: inline-flex;
+}
+
+.Barra{
+  background-color: #e5e5e5;
+  width: 3px;
+  height: 26px;
+  margin: auto 10px;
+  text-align: center;
+  display: inline-flex;
+  animation: blink-animation 1s steps(5, start) infinite;
+  -webkit-animation: blink-animation 2s steps(5, start) infinite;
+}
+
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+@-webkit-keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
