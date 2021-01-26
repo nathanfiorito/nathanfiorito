@@ -1,32 +1,52 @@
-body{
-  background-color: #212529;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+.info{
+  position: absolute;
+  top: 12%;
+  left: 12%;
+  
 }
 
-.Title {
+.profile-picture{
+  max-width: 200px;
+  border-radius:10px;
   margin: auto;
-  text-align: center;
-  color: #e5e5e5;
-  display: inline-flex;
+  right: 12%;
 }
 
-.Barra{
-  background-color: #e5e5e5;
-  width: 3px;
-  height: 26px;
-  margin: auto 10px;
+.name{
   text-align: center;
-  display: inline-flex;
-  animation: blink-animation 1s steps(5, start) infinite;
-  -webkit-animation: blink-animation 2s steps(5, start) infinite;
+  max-width: 200px;
 }
 
-@keyframes blink-animation {
-  to {
-    visibility: hidden;
-  }
+.developer{
+  max-width: 30vh;
+  text-align: center;
 }
-@-webkit-keyframes blink-animation {
-  to {
-    visibility: hidden;
-  }
+
+.social-medias{
+  display: flex;
+  flex-direction: column;
+  width: 278px;
+  height: 170px;
+  left: 180px;
+  top: 472px;
+}
+
+.social-link-div{
+  padding: 2%;
+  justify-content: center;
+}
+
+.social-link-text{
+  display: inline;
+  color: #3CD16C;
+  max-width: 203px;
+
+  vertical-align: middle;
+  text-align: center;
+
+  position: relative;
+  top: -30%; 
+  left: 5%;
 }
