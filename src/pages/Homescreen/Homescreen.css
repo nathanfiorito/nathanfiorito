@@ -4,7 +4,11 @@
   position: absolute;
   top: 12%;
   left: 12%;
-  
+  max-width: 200px;
+}
+
+.profile{
+  max-width: 200px;
 }
 
 .profile-picture{
@@ -27,8 +31,7 @@
 .social-medias{
   display: flex;
   flex-direction: column;
-  width: 278px;
-  height: 170px;
+  width: 200px;
   left: 180px;
   top: 472px;
 }
@@ -41,12 +44,13 @@
 .social-link-text{
   display: inline;
   color: #3CD16C;
-  max-width: 203px;
+  font-size:medium;
+
+  max-width: 200px;
 
   vertical-align: middle;
   text-align: center;
 
-  position: relative;
-  top: -30%; 
-  left: 5%;
+  position: absolute;
+  left: 25%;
 }
