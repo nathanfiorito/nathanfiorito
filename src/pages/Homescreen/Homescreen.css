@@ -1,5 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
 
+h3{
+  font-size: 2vw;
+  color: #4D4D4D;
+}
+
+a{
+  text-decoration: none;
+}
+
 .flex-column{
   display: flex;
   flex-direction: column;
@@ -32,12 +41,8 @@
   font-size: 3vw;
 }
 
-.logo{
-  width: 10vw;
-}
-
-h3{
-  font-size: 2vw;
+.icon{
+  width: 7vw;
 }
 
 .social-link{

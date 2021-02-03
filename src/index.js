@@ -1,13 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { BrowserRouter, Switch, Route } from 'react-router-dom'
 
 import './index.css';
 
 import Homescreen from './pages/Homescreen';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <Homescreen />
-  </React.StrictMode>,
+  <BrowserRouter>
+    <Switch>
+      <Route path='/' component={Homescreen}/>
+    </Switch>
+  </BrowserRouter>,
   document.getElementById('root')
 );
