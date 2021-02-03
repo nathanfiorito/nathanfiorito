@@ -1,56 +1,53 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
 
-.info{
-  position: absolute;
-  top: 12%;
-  left: 12%;
-  max-width: 200px;
+.flex-column{
+  display: flex;
+  flex-direction: column;
 }
 
-.profile{
-  max-width: 200px;
+.flex-row{
+  display: flex;
+  flex-direction: row;
 }
 
-.profile-picture{
-  max-width: 200px;
-  border-radius:10px;
-  margin: auto;
-  right: 12%;
+.center{
+  margin: auto auto auto auto;
+}
+
+.center-v{
+  margin: auto 0 auto 0;
+}
+
+.center-h{
+  margin: 0 auto 0 auto;
 }
 
 .name{
-  text-align: center;
-  max-width: 200px;
+  color: #3CD16C;
+  font-size: 5vw;
 }
 
 .developer{
-  max-width: 30vh;
+  color: #4D4D4D;
+  font-size: 3vw;
+}
+
+.logo{
+  width: 10vw;
+}
+
+h3{
+  font-size: 2vw;
+}
+
+.social-link{
+  margin: 1vw;
   text-align: center;
 }
 
-.social-medias{
-  display: flex;
-  flex-direction: column;
-  width: 200px;
-  left: 180px;
-  top: 472px;
-}
-
-.social-link-div{
-  padding: 2%;
-  justify-content: center;
-}
-
-.social-link-text{
-  display: inline;
-  color: #3CD16C;
-  font-size:medium;
-
-  max-width: 200px;
-
-  vertical-align: middle;
-  text-align: center;
-
-  position: absolute;
-  left: 25%;
+.profile-picture{
+  width: 20vw;
+  border-radius: 10px;
+  margin-left: 2vw;
+  margin-top: 2vw;
 }
