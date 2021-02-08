@@ -7,20 +7,24 @@ import githubLogo from '../../assets/img/githubLogo.svg';
 import twitterLogo from '../../assets/img/twitterLogo.svg';
 import linkedinLogo from '../../assets/img/linkedinLogo.svg';
 
+import useWindowSize from '../../hooks/useWindowSize'
+
 export default function Homescreen() {
+  const [height, width] = useWindowSize();
+  
   return (
       <>
-        <div className='flex-row'>
+        <div className={width < 601 ? 'flex-column':'flex-row'}>
           <div>
-            <img src={Photo} className='center profile-picture' alt='Profile'></img>
+            <img src={Photo} className='profile-picture' alt='Profile'></img>
           </div>
-          <div className='flex-column center-h'>
+          <div className="flex-column center-h">
             <p className='center-h name'>Nathan Fiorito</p>
             <p className='center-h developer'>FULL-STACK DEVELOPER</p>
-              <div className='center flex-row'>
+              <div className={`center ${width < 601 ? 'flex-column' : 'flex-row'}`}>
                 <a href='https://github.com/NFiorito/'>
                   <div className='social-link'>
-                    <img className='icon  ' src={githubLogo} alt='Github Logo'></img>
+                    <img className='icon' src={githubLogo} alt='Github Logo'></img>
                     <h3>Visite o meu Github!</h3>
                   </div>
                 </a>

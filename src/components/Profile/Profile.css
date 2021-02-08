@@ -31,6 +31,10 @@ a{
   margin: 0 auto 0 auto;
 }
 
+.h-100{
+  min-height: 100%;
+}
+
 .name{
   color: #3CD16C;
   font-size: 5vw;
@@ -54,9 +58,28 @@ a{
   width: 20vw;
   border-radius: 10px;
   margin-left: 2vw;
-  margin-top: 2vw;
+  margin-top: 0.8vw;
 }
 
-@media(max-width: 650px){
-    
+@media(max-width: 601px){
+.profile-picture{
+  margin-left: 20vw;
+  margin-right: 20vw;
+  }
+  
+  .name{
+    font-size: 7vw;
+  }
+
+  .developer{
+    font-size: 5vw;
+  }
+
+  .icon{
+    width: 10vw;
+  }
+
+  h3{
+    font-size: 4vw;
+  }
 }
