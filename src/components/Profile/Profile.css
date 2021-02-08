@@ -31,10 +31,6 @@ a{
   margin: 0 auto 0 auto;
 }
 
-.h-100{
-  min-height: 100%;
-}
-
 .name{
   color: #3CD16C;
   font-size: 5vw;
@@ -57,29 +53,29 @@ a{
 .profile-picture{
   width: 20vw;
   border-radius: 10px;
-  margin-left: 2vw;
-  margin-top: 0.8vw;
+  margin-left: 2vh;
+  margin-top: 0.8vh;
 }
 
 @media(max-width: 601px){
 .profile-picture{
-  margin-left: 20vw;
-  margin-right: 20vw;
+    width: 14vh;
+
   }
   
   .name{
-    font-size: 7vw;
+    font-size: 4vh;
   }
 
   .developer{
-    font-size: 5vw;
+    font-size: 3vh;
   }
 
   .icon{
-    width: 10vw;
+    width: 6vh;
   }
 
   h3{
-    font-size: 4vw;
+    font-size: 2vh;
   }
 }

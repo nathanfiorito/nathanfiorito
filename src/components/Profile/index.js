@@ -15,7 +15,7 @@ export default function Homescreen() {
   return (
       <>
         <div className={width < 601 ? 'flex-column':'flex-row'}>
-          <div>
+          <div className='center'>
             <img src={Photo} className='profile-picture' alt='Profile'></img>
           </div>
           <div className="flex-column center-h">
