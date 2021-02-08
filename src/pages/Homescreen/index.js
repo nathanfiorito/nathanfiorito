@@ -9,7 +9,7 @@ import useWindowsSize from '../../hooks/useWindowSize'
 export default function Homescreen(){
   const [height, width] = useWindowsSize();
     return(
-      <div className={`${width < 600 ? 'center-h' : 'center-v' }`}>
+      <div className={`${width < 600 ? 'center' : 'center-v' }`}>
         <Profile/>
       </div>
     )
