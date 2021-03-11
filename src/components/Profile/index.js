@@ -22,7 +22,7 @@ export default function Homescreen() {
             <p className='center-h name'>Nathan Fiorito</p>
             <p className='center-h developer'>FULL-STACK DEVELOPER</p>
               <div className={`center ${width < 601 ? 'flex-column' : 'flex-row'}`}>
-                <a href='https://github.com/NFiorito/'>
+                <a href='https://github.com/nathanfiorito/'>
                   <div className='social-link'>
                     <img className='icon' src={githubLogo} alt='Github Logo'></img>
                     <h3>Visite o meu Github!</h3>
