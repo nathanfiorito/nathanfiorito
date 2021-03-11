@@ -12,7 +12,6 @@ Bem vindo(a) à minha página do Github! Meu nome é Nathan, e cursos S.I na UNI
 - Estou fazendo cursos online focado no backend 
 
 #### :muscle: Coisas que me desafio a fazer:
-- Waking up earlier to make good use of the day
 - "Codar" pelo menos 2h por dia
 - Melhorar meu curriculo com cursos por fora da faculdade
 
