@@ -23,10 +23,11 @@ Bem vindo(a) à minha página do Github! Meu nome é Nathan, e cursos S.I na UNI
 <img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
 <img width="8%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg">
 <br />
+<img width="10%" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
-<img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
 <br />
+<img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
 <br/>
 <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
