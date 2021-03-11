@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/nathanfiorito)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathanfiorito/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contato@nathanfiorito.dev.br)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bem vindo(a) à minha página do Github! Meu nome é Nathan, e cursos S.I na UNISANTA!  
 
-## Available Scripts
+<img align="right" alt="img" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="50%" height="auto" />
 
-In the project directory, you can run:
 
-### `npm start`
+#### 🌱 Coisas sobre mim: 
+- Estou no 5° semestre do curso de Sistemas de Informação(UNISANTA)
+- Estou fazendo cursos online focado no backend 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#### :muscle: Coisas que me desafio a fazer:
+- Waking up earlier to make good use of the day
+- "Codar" pelo menos 2h por dia
+- Melhorar meu curriculo com cursos por fora da faculdade
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+#### :computer: Linguagens de programção e tecnologias: 
+<p>
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=nathanfiorito&show_icons=true&hide_border=true" />
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+<img width="8%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg">
+<br />
+<img width="10%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
+<br />
+<img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
+<br/>
+<img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg">
+</p>
