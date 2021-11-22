@@ -29,6 +29,7 @@ Bem vindo(a) à minha página do Github! Meu nome é Nathan, e cursos S.I na UNI
 <br />
 <img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
 <br/>
 <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
