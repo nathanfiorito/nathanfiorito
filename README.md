@@ -17,21 +17,20 @@ Bem vindo(a) à minha página do Github! Meu nome é Nathan, e cursos S.I na UNI
 
 #### :computer: Linguagens de programção e tecnologias: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=nathanfiorito&show_icons=true&hide_border=true" />
-
-<img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-<img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
-<img width="8%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg">
-<br />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=nathanfiorito&show_icons=true&hide_border=true" />
 <img width="10%" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">	
+<br />
+<img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
 <br />
-<img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
-<img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
-<br/>
-<img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg">
+<br/>
+<img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+<img width="8%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg">
 </p>
