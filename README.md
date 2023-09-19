@@ -8,9 +8,9 @@ Bem vindo(a) à minha página do Github! Meu nome é Nathan, e cursos S.I na UNI
 
 
 #### 🌱 Coisas sobre mim: 
-- Estou no 6° semestre do curso de Sistemas de Informação(UNISANTA)
-- Estou fazendo cursos online focado no backend 
-- Atualmente trabalho na Minsait Brasil e presto serviços terceirizados para o banco Itaú, como Ddesenvolvedor Full-Stack Junior
+- Estou no 8° semestre do curso de Sistemas de Informação(UNISANTA)
+- Estou fazendo cursos online focados no backend 
+- Atualmente trabalho para o banco Itaú, como Desenvolvedor Full-Stack Junior
 
 #### :muscle: Coisas que me desafio a fazer:
 - "Codar" pelo menos 2h por dia
@@ -18,7 +18,6 @@ Bem vindo(a) à minha página do Github! Meu nome é Nathan, e cursos S.I na UNI
 
 #### :computer: Linguagens de programção e tecnologias: 
 <p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=nathanfiorito&show_icons=true&hide_border=true" />
 <img width="10%" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">	
