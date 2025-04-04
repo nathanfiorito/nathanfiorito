@@ -1,36 +1,79 @@
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/nathanfiorito)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathanfiorito/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contato@nathanfiorito.dev.br)
+<h1 align="center">👋 Olá, eu sou o Nathan Fiorito</h1>
 
-Bem vindo(a) à minha página do Github! Meu nome é Nathan, e cursos S.I na UNISANTA!  
+<p align="center">
+  <b>Back-end Developer | Java, Spring Boot, .NET Core, AWS</b><br/>
+  📍 Peruíbe, São Paulo, Brasil<br/>
+</p>
 
-<img align="right" alt="img" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="50%" height="auto" />
+<p align="center">
+  <a href="mailto:nfiorito64@gmail.com">✉️ nfiorito64@gmail.com</a> •
+  <a href="https://www.linkedin.com/in/nathanfiorito" target="_blank">🔗 LinkedIn</a>
+</p>
 
+---
 
-#### 🌱 Coisas sobre mim: 
-- Estou no 8° semestre do curso de Sistemas de Informação(UNISANTA)
-- Estou fazendo cursos online focados no backend 
-- Atualmente trabalho para o banco Itaú, como Desenvolvedor Full-Stack Junior
+## 🧑‍💻 Sobre mim
 
-#### :muscle: Coisas que me desafio a fazer:
-- "Codar" pelo menos 2h por dia
-- Melhorar meu curriculo com cursos por fora da faculdade
+Sou desenvolvedor back-end com foco em APIs escaláveis e eficientes, atualmente atuando como Analista Pleno na área de seguros do Itaú Unibanco. Tenho experiência sólida com Java, Spring Boot, .NET e AWS. Valorizo boas práticas de programação, Clean Code e o compartilhamento de conhecimento dentro dos times.
 
-#### :computer: Linguagens de programção e tecnologias: 
-<p>
-<img width="10%" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
-<img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
-<img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">	
-<br />
-<img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg">
-<img width="10%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
-<img width="10%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
-<br />
-<img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
-<img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
-<img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg">
-<br/>
-<img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-<img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-<img width="8%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg">
+Tenho facilidade para me adaptar a novos projetos e tecnologias, sempre buscando evoluir junto com o time e entregar soluções de qualidade.
+
+---
+
+## 🧠 Habilidades
+
+- ☁️ **Cloud**: AWS, Docker, Terraform  
+- 🧱 **Back-end**: Java, Spring Boot, .NET Core, Node.js  
+- 🖼️ **Front-end**: Angular, JavaScript, TypeScript  
+- 💾 **Banco de dados**: MySQL  
+- 🛠️ **Boas práticas**: Clean Code, SOLID, Metodologias Ágeis (SCRUM)
+
+---
+
+## 🏢 Experiência
+
+### **Itaú Unibanco**
+**Analista de Engenharia de TI Pleno**  
+_Nov/2024 – atualmente_  
+**Analista Jr.**  
+_Ago/2023 – Nov/2024_  
+**Estagiário**  
+_Mar/2023 – Ago/2023_  
+> Atuação no desenvolvimento e manutenção de APIs para a área de seguros, utilizando Java, Spring Boot, Docker, Angular e MySQL.
+
+---
+
+### **Minsait (Indra)**
+**Analista de Sistemas Jr.**  
+_Jul/2021 – Fev/2023_  
+> Trabalhei na manutenção de sistemas legados e desenvolvimento de APIs e páginas web usando Java, .NET, C#, Angular e práticas de Clean Code/SOLID.
+
+---
+
+## 🎓 Formação
+
+**Universidade Santa Cecília**  
+Graduação em Gestão de Sistemas de Informação (2019 – 2023)
+
+---
+
+## 🏅 Certificações
+
+- Python Pandas: Tratando e analisando dados  
+- NodeJS: Crie uma API REST padronizada e escalável  
+- NodeJS: Streaming de dados e Repositório  
+- NestJS Zero to Hero - Modern TypeScript Back-end Development  
+- Data Science: Primeiros Passos
+
+---
+
+## 🚀 Fun Facts
+
+- Sou fissurado em aprender tecnologias novas e resolver pepinos técnicos
+- Gosto de ensinar e trocar ideias com o time
+
+---
+
+<p align="center">
+  <i>“Software bom é aquele que dá orgulho de mostrar e segurança de manter.”</i>
 </p>
