@@ -52,18 +52,18 @@ const Hero = () => {
                     </motion.p>
 
                     <motion.div variants={item} className="hero-actions">
-                        <a href="mailto:contact@nathanfiorito.com" className="btn btn-primary">
+                        <a href="mailto:contato@nathanfiorito.com.br" className="btn btn-primary">
                             {t.hero.cta} <ArrowRight size={20} />
                         </a>
 
                         <div className="social-links">
-                            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="social-icon">
+                            <a href="https://github.com/nathanfiorito" target="_blank" rel="noopener noreferrer" className="social-icon">
                                 <Github size={24} />
                             </a>
-                            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="social-icon">
+                            <a href="https://linkedin.com/in/nathanfiorito" target="_blank" rel="noopener noreferrer" className="social-icon">
                                 <Linkedin size={24} />
                             </a>
-                            <a href="mailto:contact@nathanfiorito.com" className="social-icon">
+                            <a href="mailto:contato@nathanfiorito.com.br" className="social-icon">
                                 <Mail size={24} />
                             </a>
                         </div>

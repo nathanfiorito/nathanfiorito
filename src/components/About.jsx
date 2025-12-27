@@ -28,7 +28,7 @@ const About = () => {
                     </div>
                     <div className="stat-card glass-card">
                         <User size={32} className="stat-icon" />
-                        <h3>2+ Years</h3>
+                        <h3>5+ Years</h3>
                         <p>Experience</p>
                     </div>
                 </div>
