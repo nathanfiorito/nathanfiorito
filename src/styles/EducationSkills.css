@@ -1,0 +1,75 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+    padding-bottom: 6rem;
+}
+
+.section-title-small {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    font-size: 1.75rem;
+    margin-bottom: 2rem;
+    color: var(--color-text-primary);
+}
+
+.section-title-small .icon {
+    color: var(--color-text-accent);
+}
+
+/* Education */
+.edu-card {
+    padding: 2rem;
+}
+
+.edu-item h3 {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.degree {
+    color: var(--color-text-secondary);
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.period {
+    display: inline-block;
+    font-size: 0.85rem;
+    color: var(--color-text-accent);
+    background: rgba(59, 130, 246, 0.1);
+    padding: 0.25rem 0.75rem;
+    border-radius: 12px;
+}
+
+/* Skills */
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 1rem;
+}
+
+.skill-card {
+    padding: 1rem;
+    text-align: center;
+    font-size: 0.95rem;
+    font-weight: 500;
+    border-color: rgba(255, 255, 255, 0.03);
+    transition: all 0.2s ease;
+    cursor: default;
+}
+
+.skill-card:hover {
+    border-color: var(--color-text-accent);
+    color: var(--color-text-accent);
+    transform: translateY(-3px);
+    background: rgba(59, 130, 246, 0.05);
+}
+
+@media (max-width: 768px) {
+    .grid-container {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+}
